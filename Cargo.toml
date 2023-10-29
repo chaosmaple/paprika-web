@@ -1,0 +1,6 @@
+[workspace]
+name = "paprika-web"
+
+members = [
+    "api",
+]
